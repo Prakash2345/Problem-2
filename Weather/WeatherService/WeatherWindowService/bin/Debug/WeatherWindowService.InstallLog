@@ -1,0 +1,51 @@
+﻿Installing assembly 'D:\Projects\WeatherService\WeatherWindowService\bin\Debug\WeatherWindowService.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Projects\WeatherService\WeatherWindowService\bin\Debug\WeatherWindowService.InstallLog
+   assemblypath = D:\Projects\WeatherService\WeatherWindowService\bin\Debug\WeatherWindowService.exe
+   logtoconsole = 
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\Projects\WeatherService\WeatherWindowService\bin\Debug\WeatherWindowService.exe assembly.
+Committing assembly 'D:\Projects\WeatherService\WeatherWindowService\bin\Debug\WeatherWindowService.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Projects\WeatherService\WeatherWindowService\bin\Debug\WeatherWindowService.InstallLog
+   assemblypath = D:\Projects\WeatherService\WeatherWindowService\bin\Debug\WeatherWindowService.exe
+   logtoconsole = 
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\Projects\WeatherService\WeatherWindowService\bin\Debug\WeatherWindowService.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'D:\Projects\WeatherService\WeatherWindowService\bin\Debug\WeatherWindowService.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Projects\WeatherService\WeatherWindowService\bin\Debug\WeatherWindowService.InstallLog
+   assemblypath = D:\Projects\WeatherService\WeatherWindowService\bin\Debug\WeatherWindowService.exe
+   logtoconsole = 
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Projects\WeatherService\WeatherWindowService\bin\Debug\WeatherWindowService.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Projects\WeatherService\WeatherWindowService\bin\Debug\WeatherWindowService.InstallLog
+   assemblypath = D:\Projects\WeatherService\WeatherWindowService\bin\Debug\WeatherWindowService.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\Projects\WeatherService\WeatherWindowService\bin\Debug\WeatherWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Projects\WeatherService\WeatherWindowService\bin\Debug\WeatherWindowService.InstallLog
+   assemblypath = D:\Projects\WeatherService\WeatherWindowService\bin\Debug\WeatherWindowService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'D:\Projects\WeatherService\WeatherWindowService\bin\Debug\WeatherWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Projects\WeatherService\WeatherWindowService\bin\Debug\WeatherWindowService.exe
+   logfile = D:\Projects\WeatherService\WeatherWindowService\bin\Debug\WeatherWindowService.InstallLog
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Projects\WeatherService\WeatherWindowService\bin\Debug\WeatherWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Projects\WeatherService\WeatherWindowService\bin\Debug\WeatherWindowService.exe
+   logfile = D:\Projects\WeatherService\WeatherWindowService\bin\Debug\WeatherWindowService.InstallLog

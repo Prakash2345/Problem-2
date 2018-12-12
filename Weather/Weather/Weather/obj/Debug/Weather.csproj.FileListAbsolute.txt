@@ -1,0 +1,5 @@
+D:\Projects\Weather\Weather\bin\Debug\Weather.exe.config
+D:\Projects\Weather\Weather\bin\Debug\Weather.exe
+D:\Projects\Weather\Weather\bin\Debug\Weather.pdb
+D:\Projects\Weather\Weather\obj\Debug\Weather.exe
+D:\Projects\Weather\Weather\obj\Debug\Weather.pdb

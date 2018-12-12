@@ -1,0 +1,10 @@
+D:\Projects\WeatherService\WeatherWindowService\bin\Debug\WeatherWindowService.exe.config
+D:\Projects\WeatherService\WeatherWindowService\bin\Debug\WeatherWindowService.exe
+D:\Projects\WeatherService\WeatherWindowService\bin\Debug\WeatherWindowService.pdb
+D:\Projects\WeatherService\WeatherWindowService\obj\Debug\WeatherWindowService.csprojResolveAssemblyReference.cache
+D:\Projects\WeatherService\WeatherWindowService\obj\Debug\WeatherWindowService.exe
+D:\Projects\WeatherService\WeatherWindowService\obj\Debug\WeatherWindowService.pdb
+D:\Projects\WeatherService\WeatherWindowService\bin\Debug\WeatherService.dll
+D:\Projects\WeatherService\WeatherWindowService\bin\Debug\WeatherService.pdb
+D:\Projects\WeatherService\WeatherWindowService\obj\Debug\WeatherWindowService.ProjectInstaller.resources
+D:\Projects\WeatherService\WeatherWindowService\obj\Debug\WeatherWindowService.csproj.GenerateResource.Cache
